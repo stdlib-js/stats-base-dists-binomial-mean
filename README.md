@@ -32,10 +32,14 @@ The [expected value][expected-value] for a [binomial][binomial-distribution] ran
 
 <!-- <equation class="equation" label="eq:binomial_expectation" align="center" raw="\mathbb{E}\left[ X \right] = n p" alt="Expected value for a binomial distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\mathbb{E}\left[ X \right] = n p" data-equation="eq:binomial_expectation">
+```math
+\mathbb{E}\left[ X \right] = n p
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\mathbb{E}\left[ X \right] = n p" data-equation="eq:binomial_expectation">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/binomial/mean/docs/img/equation_binomial_expectation.svg" alt="Expected value for a binomial distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -226,7 +230,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
