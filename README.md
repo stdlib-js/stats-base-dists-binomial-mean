@@ -71,7 +71,7 @@ where `n` is the number of trials and `p` is the success probability.
 To use in Observable,
 
 ```javascript
-mean = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mean@umd/browser.js' )
+mean = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mean@v0.1.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -83,7 +83,7 @@ var mean = require( 'path/to/vendor/umd/stats-base-dists-binomial-mean/index.js'
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mean@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mean@v0.1.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -164,7 +164,7 @@ v = mean( 20, 1.5 );
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mean@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mean@v0.1.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
