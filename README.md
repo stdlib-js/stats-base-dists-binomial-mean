@@ -69,7 +69,7 @@ where `n` is the number of trials and `p` is the success probability.
 ## Usage
 
 ```javascript
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mean@v0.2.1-esm/index.mjs';
 ```
 
 #### mean( n, p )
@@ -142,7 +142,7 @@ v = mean( 20, 1.5 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
-import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mean@esm/index.mjs';
+import mean from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-binomial-mean@v0.2.1-esm/index.mjs';
 
 var v;
 var i;
