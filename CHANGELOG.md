@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-16)
+## Unreleased (2025-02-21)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`7fc07a2`](https://github.com/stdlib-js/stdlib/commit/7fc07a2122bb9e862ae7e2237dd48096051199dd) - **docs:** fix missing section tags in various READMEs [(#5322)](https://github.com/stdlib-js/stdlib/pull/5322) _(by Saurabh Singh)_
 -   [`c45b0ba`](https://github.com/stdlib-js/stdlib/commit/c45b0ba1e520ffe95e231d4e634cbcc26dfd5242) - **chore:** address commit comments [(#5219)](https://github.com/stdlib-js/stdlib/pull/5219) _(by Saurabh Singh)_
 -   [`95dd2ff`](https://github.com/stdlib-js/stdlib/commit/95dd2ffb02ddeb98f100d73cdb017264905dd3a4) - **feat:** add C implementation for `stats/base/dists/binomial/mean` [(#3681)](https://github.com/stdlib-js/stdlib/pull/3681) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 -   [`af55f0d`](https://github.com/stdlib-js/stdlib/commit/af55f0d6d6b4d06c36f46357740ea89a4639ab5b) - **bench:** refactor random number generation in `stats/base/dists/binomial` [(#4841)](https://github.com/stdlib-js/stdlib/pull/4841) _(by Karan Anand)_
