@@ -173,6 +173,8 @@ logEachMap( 'n: %0.4f, p: %0.4f, E(X;n,p): %0.4f', n, p, mean );
 
 <!-- C interface documentation. -->
 
+* * *
+
 <section class="c">
 
 ## C APIs
